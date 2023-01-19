@@ -1,13 +1,13 @@
-package com.xuecheng.base;
+package com.xuecheng;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class XuechengPlusBaseApplication {
+public class XuechengPlusContentModelApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(XuechengPlusBaseApplication.class, args);
+        SpringApplication.run(XuechengPlusContentModelApplication.class, args);
     }
 
 }

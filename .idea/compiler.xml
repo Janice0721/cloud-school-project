@@ -41,7 +41,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="xuecheng-plus-base" options="-parameters" />
-      <module name="xuecheng-plus-content" options="" />
+      <module name="xuecheng-plus-content" options="-parameters" />
       <module name="xuecheng-plus-content-api" options="-parameters" />
       <module name="xuecheng-plus-content-model" options="-parameters" />
       <module name="xuecheng-plus-content-service" options="-parameters" />
